@@ -1,5 +1,5 @@
 const TeleBot = require('../');
-const bot = new TeleBot('TELEGRAM_BOT_TOKEN');
+const bot = new TeleBot('1217766502:AAHEshc_PTgIuENAZsxgB-cSojvDNMmyFEU');
 
 bot.on('/time', msg => {
 
